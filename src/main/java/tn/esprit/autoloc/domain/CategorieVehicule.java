@@ -1,4 +1,8 @@
 package tn.esprit.autoloc.domain;
 
-public class CategorieVehicule {
+public enum CategorieVehicule {
+    CITADINE,
+    BERLINE,
+    SUV,
+    UTILITAIRE
 }
